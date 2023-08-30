@@ -8,6 +8,8 @@ This repository contains a Python project focused on Time Series Forecasting usi
 •SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous factors) 
 •ARIMA (AutoRegressive Integrated Moving Average) 
 
+The purpose is to forecast a six-time series (no particular topic) using Minitab and Python.
+
 Time series forecasting is a crucial task in various domains such as finance, economics, and environmental science. 
 This project provides an in-depth demonstration of how to implement SARIMA and ARIMA models for accurate time-series predictions.
 
