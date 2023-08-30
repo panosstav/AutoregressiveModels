@@ -16,6 +16,6 @@ Scripts:
 •arima
 
 Data:
-•test
-•train
-•sample_submission
+•Use any data with id, serie, indice for test
+•Use any data with id, serie, indice, y for train
+•Use any data with id, y for sample_submission
