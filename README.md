@@ -1,4 +1,4 @@
-💹 Times Series Forcasting
+💹 Times Series Forecasting
 Time Series Forecasting with SARIMA and ARIMA Models
 
 This repository contains a Python project focused on Time Series Forecasting using: 
