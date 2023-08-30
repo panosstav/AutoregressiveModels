@@ -14,3 +14,8 @@ This project provides an in-depth demonstration of how to implement SARIMA and A
 Scripts:
 •sarimax
 •arima
+
+Data:
+•test
+•train
+•sample_submission
