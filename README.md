@@ -16,6 +16,7 @@ Scripts:
 •arima
 
 Data:
-•Use any data with id, serie, indice for test
-•Use any data with id, serie, indice, y for train
-•Use any data with id, y for sample_submission
+•sample_test
+•sample_train
+•sample_submission
+The data files showcase the desirable format, not the values used.
