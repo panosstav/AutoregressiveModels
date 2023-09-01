@@ -32,13 +32,17 @@ Libraries used:
 Here's how you can use the ARIMA time series forecasting code:
 
 1. Data Preparation: Ensure you have the necessary data files:
+   
 •Place your training data in a CSV file named train.csv.
+
 •Place your test data in a CSV file named test.csv.
+
 •A sample submission CSV file should be named sample_submission.csv.
-2. Running the Code: Open and run the provided Jupyter Notebook or Python script to perform time series forecasting using ARIMA.
-3. Model Evaluation: The code includes model evaluation, which will display the Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) for each ARIMA model.
-4. Generating Predictions: After training the ARIMA models, predictions for the test data will be generated and saved.
-5. Submission: The predictions can be submitted to a competition or used for further analysis.
+
+3. Running the Code: Open and run the provided Jupyter Notebook or Python script to perform time series forecasting using ARIMA.
+4. Model Evaluation: The code includes model evaluation, which will display the Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) for each ARIMA model.
+5. Generating Predictions: After training the ARIMA models, predictions for the test data will be generated and saved.
+6. Submission: The predictions can be submitted to a competition or used for further analysis.
 
 ## 🔮 Future work:
 future work would be Time Series Forecasting with SARIMA model.
