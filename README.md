@@ -16,12 +16,17 @@ Time series forecasting is a crucial task in various domains such as finance, ec
 This project provides an in-depth demonstration of how to implement SARIMAX and ARIMA models for accurate time-series predictions.
 
 Scripts:
+
 •sarimax
+
 •arima
 
 Data:
+
 •sample_test
+
 •sample_train
+
 •sample_submission
 
 The data files showcase the desirable format, not the values used.
