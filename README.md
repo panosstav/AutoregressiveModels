@@ -26,6 +26,9 @@ Data:
 
 The data files showcase the desirable format, not the values used.
 
+## Prerequisites
+- **Python 3.6+**: You need Python installed on your system to run the code.
+- **Pip**: Ensure you have Pip (Python package manager) installed.
 Libraries used:
 •seaborn 📊
 •pandas 🐼
