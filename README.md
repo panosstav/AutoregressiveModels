@@ -5,7 +5,9 @@
 ## Time Series Forecasting with SARIMAX and ARIMA Models
 
 This repository contains a Python project focused on Time Series Forecasting using models:
-•SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous factors) 
+
+•SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous factors) and
+
 •ARIMA (AutoRegressive Integrated Moving Average) 
 
 The purpose is to forecast a six-time series (no particular topic) using Python.
