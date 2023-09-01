@@ -35,7 +35,7 @@ The data files showcase the desirable format, not the values used.
 Welcome to the world of time series forecasting using ARIMA and SARIMA models. 
 This guide will help you get started with forecasting time series data efficiently.
 
-ARIMA Forecasting
+### ARIMA Forecasting
 
 Train an ARIMA Model
 1. Open and run the provided Jupyter Notebook or Python script for ARIMA time series forecasting. The code will guide you through the following steps:
@@ -49,7 +49,7 @@ Train an ARIMA Model
 •Model evaluation, which includes MAE (Mean Absolute Error) and RMSE (Root Mean Square Error).
 2. After training the ARIMA model, it will be ready for making predictions.
 
-SARIMA Forecasting
+### SARIMA Forecasting
 
 Train a SARIMA Model
 1. Open and run the provided Jupyter Notebook or Python script for SARIMA time series forecasting. The code will guide you through the following steps:
