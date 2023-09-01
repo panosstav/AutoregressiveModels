@@ -47,6 +47,7 @@ Train an ARIMA Model
 •Model training
 
 •Model evaluation, which includes MAE (Mean Absolute Error) and RMSE (Root Mean Square Error).
+
 2. After training the ARIMA model, it will be ready for making predictions.
 
 ### SARIMAX Forecasting
