@@ -35,6 +35,21 @@ The data files showcase the desirable format, not the values used.
 Welcome to the world of time series forecasting using ARIMA and SARIMAX models. 
 This guide will help you get started with forecasting time series data efficiently.
 
+### Prepare Data
+Before running the code, make sure you have the necessary data files ready:
+
+•Place your time series training data in a CSV file named train.csv.
+
+•Place your time series test data in a CSV file named test.csv.
+
+•If you have exogenous variables, include them in a separate CSV file named exogenous.csv.
+
+### Install Dependencies
+
+Install the required Python packages using Pip by running:
+
+pip install -r requirements.txt
+
 ### ARIMA Forecasting
 
 Train an ARIMA Model
