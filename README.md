@@ -25,8 +25,8 @@ Data:
 The data files showcase the desirable format, not the values used.
 
 Libraries used:
-•seaborn
-•pandas
+•seaborn 📊
+•pandas 🐼
 
 🔮 Future work:
 Time Series Forecasting with SARIMA
