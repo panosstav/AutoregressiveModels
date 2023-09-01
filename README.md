@@ -29,4 +29,4 @@ Libraries used:
 •pandas 🐼
 
 🔮 Future work:
-Time Series Forecasting with SARIMA
+Time Series Forecasting with SARIMA model.
