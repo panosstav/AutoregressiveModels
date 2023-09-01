@@ -65,6 +65,14 @@ Train a SARIMAX Model
 
 2. After training the SARIMAX model, it will be ready for making predictions.
 
+### Make Predictions
+1. Utilize the trained ARIMA or SARIMAX models to make predictions on your test data.
+
+2. If you included exogenous variables in SARIMAX, provide them as inputs when making predictions.
+
+3. Evaluate the forecasted results using appropriate metrics and visualize the forecasts alongside the actual data.
+
+
 ## Prerequisites
 - **Python 3.6+**: You need Python installed on your system to run the code.
 - **Pip**: Ensure you have Pip (Python package manager) installed.
