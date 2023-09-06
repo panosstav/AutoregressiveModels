@@ -17,17 +17,17 @@ This project provides an in-depth demonstration of how to implement SARIMAX and 
 
 Scripts:
 
-•sarimax
+•sarimax.ipynb
 
-•arima
+•arima.ipynb
 
 Data:
 
-•sample_test
+•test_sample.xlsx
 
-•sample_train
+•train_sample.xlsx
 
-•sample_submission
+•sample_submission.xlsx
 
 The data files showcase the desirable format, not the values used.
 
