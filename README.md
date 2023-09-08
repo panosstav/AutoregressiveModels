@@ -114,5 +114,5 @@ Here's how you can use the ARIMA time series forecasting code:
 5. Generating Predictions: After training the ARIMA models, predictions for the test data will be generated and saved.
 6. Submission: The predictions can be submitted to a competition or used for further analysis.
 
-## 🔮 Future work:
+## 🔮 Future work
 Future work would be Time Series Forecasting with SARIMA model.
