@@ -98,7 +98,7 @@ Libraries used:
 
 •pandas 🐼
 
-## Usage
+## ⚙️ Usage
 Here's how you can use the ARIMA time series forecasting code:
 
 1. Data Preparation: Ensure you have the necessary data files:
