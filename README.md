@@ -115,4 +115,4 @@ Here's how you can use the ARIMA time series forecasting code:
 6. Submission: The predictions can be submitted to a competition or used for further analysis.
 
 ## 🔮 Future work
-Future work would be Time Series Forecasting with SARIMA model.
+Future work would be Time Series Forecasting with SARIMA (Seasonal AutoRegressive Integrated Moving Average) model.
