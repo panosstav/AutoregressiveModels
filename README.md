@@ -34,9 +34,9 @@ This guide will help you get started with forecasting time series data efficient
 ### Prepare Data
 Before running the code, make sure you have the necessary data files ready:
 
-- Place your time series training data in a CSV file named train.csv.
-- Place your time series test data in a CSV file named test.csv.
-- If you have exogenous variables, include them in a separate CSV file named exogenous.csv.
+- Place your time series training data in a CSV file named train.csv
+- Place your time series test data in a CSV file named test.csv
+- If you have exogenous variables, include them in a separate CSV file named exogenous.csv
 
 ### Install Dependencies
 
@@ -91,9 +91,9 @@ Here's how you can use the ARIMA time series forecasting code:
 
 1. Data Preparation: Ensure you have the necessary data files:
    
-- Place your training data in a CSV file named train.csv.
-- Place your test data in a CSV file named test.csv.
-- A sample submission CSV file should be named sample_submission.csv.
+- Place your training data in a CSV file named train.csv
+- Place your test data in a CSV file named test.csv
+- A sample submission CSV file should be named sample_submission.csv
 
 3. Running the Code: Open and run the provided Jupyter Notebook or Python script to perform time series forecasting using ARIMA.
 4. Model Evaluation: The code includes model evaluation, which will display the Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) for each ARIMA model.
