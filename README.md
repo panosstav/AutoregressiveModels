@@ -81,10 +81,8 @@ Train a SARIMAX Model
 - **Pip**: Ensure you have Pip (Python package manager) installed.
 
 Libraries used:
-
-• seaborn 📊
-
-• pandas 🐼
+- seaborn 📊
+- pandas 🐼
 
 ## ⚙️ Usage
 Here's how you can use the ARIMA time series forecasting code:
