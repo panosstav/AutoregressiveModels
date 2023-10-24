@@ -5,7 +5,6 @@
 ## Time Series Forecasting with SARIMAX and ARIMA Models
 
 This repository contains a Python project focused on Time Series Forecasting using models:
-
 - SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous factors) and
 - ARIMA (AutoRegressive Integrated Moving Average) 
 
@@ -15,12 +14,10 @@ Time series forecasting is a crucial task in various domains such as finance, ec
 This project provides an in-depth demonstration of how to implement SARIMAX and ARIMA models for accurate time-series predictions.
 
 Scripts:
-
 - sarimax.ipynb
 - arima.ipynb
 
 Data:
-
 - test_sample.xlsx
 - train_sample.xlsx
 - sample_submission.xlsx
@@ -33,7 +30,6 @@ This guide will help you get started with forecasting time series data efficient
 
 ### Prepare Data
 Before running the code, make sure you have the necessary data files ready:
-
 - Place your time series training data in a CSV file named train.csv
 - Place your time series test data in a CSV file named test.csv
 - If you have exogenous variables, include them in a separate CSV file named exogenous.csv
@@ -48,7 +44,6 @@ Install the required Python packages using Pip by running:
 
 Train an ARIMA Model
 1. Open and run the provided Jupyter Notebook or Python script for ARIMA time series forecasting. The code will guide you through the following steps:
-
 - Data preprocessing
 - ARIMA model selection (p, d, q parameters)
 - Model training
@@ -60,7 +55,6 @@ Train an ARIMA Model
 
 Train a SARIMAX Model
 1. Open and run the provided Jupyter Notebook or Python script for SARIMAX time series forecasting. The code will guide you through the following steps:
-
 - Data preprocessing, including handling exogenous variables
 - SARIMAX model selection (p, d, q, P, D, Q, s parameters)
 - Model training
@@ -87,8 +81,7 @@ Libraries used:
 ## ⚙️ Usage
 Here's how you can use the ARIMA time series forecasting code:
 
-1. Data Preparation: Ensure you have the necessary data files:
-   
+1. Data Preparation: Ensure you have the necessary data files:   
 - Place your training data in a CSV file named train.csv
 - Place your test data in a CSV file named test.csv
 - A sample submission CSV file should be named sample_submission.csv
