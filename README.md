@@ -24,6 +24,8 @@ Data:
 
 The data files showcase the desirable format, not the values used.
 
+--- 
+
 ## Getting Started
 Welcome to the world of time series forecasting using ARIMA and SARIMAX models. 
 This guide will help you get started with forecasting time series data efficiently.
@@ -69,6 +71,7 @@ Train a SARIMAX Model
 
 3. Evaluate the forecasted results using appropriate metrics and visualize the forecasts alongside the actual data.
 
+--- 
 
 ## Prerequisites
 - **Python 3.6+**: You need Python installed on your system to run the code.
@@ -77,6 +80,8 @@ Train a SARIMAX Model
 Libraries used:
 - seaborn
 - pandas
+
+--- 
 
 ## Usage
 Here's how you can use the ARIMA time series forecasting code:
@@ -90,6 +95,8 @@ Here's how you can use the ARIMA time series forecasting code:
 4. Model Evaluation: The code includes model evaluation, which will display the Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) for each ARIMA model.
 5. Generating Predictions: After training the ARIMA models, predictions for the test data will be generated and saved.
 6. Submission: The predictions can be submitted to a competition or used for further analysis.
+
+--- 
 
 ## Future work
 Future work would be Time Series Forecasting with SARIMA (Seasonal AutoRegressive Integrated Moving Average) model.
