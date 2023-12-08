@@ -2,6 +2,8 @@
 
 Python Project
 
+--- 
+
 ## Time Series Forecasting with SARIMAX and ARIMA Models
 
 This repository contains a Python project focused on Time Series Forecasting using models:
