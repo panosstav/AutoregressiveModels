@@ -32,10 +32,6 @@ The data files showcase the desirable format, not the values used.
 Welcome to the world of time series forecasting using ARIMA and SARIMAX models. 
 This guide will help you get started with forecasting time series data efficiently.
 
-<p align="right">
-    <a href="#table-of-contents">Back to top</a>  
-</p>
-
 ### Prepare Data
 Before running the code, make sure you have the necessary data files ready:
 - Place your time series training data in a CSV file named train.csv
@@ -77,10 +73,6 @@ Train a SARIMAX Model
 
 3. Evaluate the forecasted results using appropriate metrics and visualize the forecasts alongside the actual data.
 
-<p align="right">
-    <a href="#table-of-contents">Back to top</a>  
-</p>
-
 --- 
 
 ## Prerequisites
@@ -90,10 +82,6 @@ Train a SARIMAX Model
 Libraries used:
 - seaborn
 - pandas
-
-<p align="right">
-    <a href="#table-of-contents">Back to top</a>  
-</p>
 
 --- 
 
@@ -110,15 +98,7 @@ Here's how you can use the ARIMA time series forecasting code:
 5. Generating Predictions: After training the ARIMA models, predictions for the test data will be generated and saved.
 6. Submission: The predictions can be submitted to a competition or used for further analysis.
 
-<p align="right">
-    <a href="#table-of-contents">Back to top</a>  
-</p>
-
 --- 
 
 ## Future work
 Future work would be Time Series Forecasting with SARIMA (Seasonal AutoRegressive Integrated Moving Average) model.
-
-<p align="right">
-    <a href="#table-of-contents">Back to top</a>  
-</p>
