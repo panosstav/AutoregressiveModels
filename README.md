@@ -1,4 +1,4 @@
-# Times Series Forecasting
+# Times Series Forecasting with AutoRegressive Models
 
 Python Project
 
